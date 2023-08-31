@@ -1,5 +1,5 @@
-# schoolpython
-Python repo for school
+# Pythonschool
+
 Python repo for school
 ---
 
